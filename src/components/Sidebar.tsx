@@ -111,7 +111,6 @@ const SideBarContainer = styled.div<styledProps>`
     theme === darkTheme ? '1px solid #3e3f4e' : '1px solid ##E4EBFA'};
 
   width: 300px;
-  /* height: 100vh; */
 
   display: flex;
   flex-direction: column;
